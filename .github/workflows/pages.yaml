@@ -27,7 +27,7 @@ jobs:
 
       - name: Install node 18
 
-        uses: action/setup-node@v1
+        uses: actions/setup-node@v1
 
         with:
           node-version: 18.x
